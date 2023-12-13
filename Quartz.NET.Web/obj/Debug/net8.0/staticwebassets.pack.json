@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\css\\login_index.css",
+      "PackagePath": "staticwebassets\\css\\login_index.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\css\\task_index.css",
+      "PackagePath": "staticwebassets\\css\\task_index.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\element-ui\\fonts\\element-icons.ttf",
+      "PackagePath": "staticwebassets\\element-ui\\fonts\\element-icons.ttf"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\element-ui\\fonts\\element-icons.woff",
+      "PackagePath": "staticwebassets\\element-ui\\fonts\\element-icons.woff"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\element-ui\\index.css",
+      "PackagePath": "staticwebassets\\element-ui\\index.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\element-ui\\index.js",
+      "PackagePath": "staticwebassets\\element-ui\\index.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\html\\doc.html",
+      "PackagePath": "staticwebassets\\html\\doc.html"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\iView\\iview.css",
+      "PackagePath": "staticwebassets\\iView\\iview.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\iView\\iview.min.js",
+      "PackagePath": "staticwebassets\\iView\\iview.min.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\iView\\iview.min.js.bak",
+      "PackagePath": "staticwebassets\\iView\\iview.min.js.bak"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\iView\\styles\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\iView\\styles\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\iView\\styles\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\iView\\styles\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\iView\\styles\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\iView\\styles\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\iView\\styles\\iview.css",
+      "PackagePath": "staticwebassets\\iView\\styles\\iview.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\banner1.svg",
+      "PackagePath": "staticwebassets\\images\\banner1.svg"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\banner2.svg",
+      "PackagePath": "staticwebassets\\images\\banner2.svg"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\banner3.svg",
+      "PackagePath": "staticwebassets\\images\\banner3.svg"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\example\\add.png",
+      "PackagePath": "staticwebassets\\images\\example\\add.png"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\example\\dir.png",
+      "PackagePath": "staticwebassets\\images\\example\\dir.png"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\example\\log.png",
+      "PackagePath": "staticwebassets\\images\\example\\log.png"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\example\\project1.png",
+      "PackagePath": "staticwebassets\\images\\example\\project1.png"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\example\\project2.png",
+      "PackagePath": "staticwebassets\\images\\example\\project2.png"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\example\\tasklist.png",
+      "PackagePath": "staticwebassets\\images\\example\\tasklist.png"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\example\\update.png",
+      "PackagePath": "staticwebassets\\images\\example\\update.png"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\js\\task-index.js",
+      "PackagePath": "staticwebassets\\js\\task-index.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.bower.json"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\.bower.json"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\.bower.json"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery\\.bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\.bower.json"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\vue\\axios.min.js",
+      "PackagePath": "staticwebassets\\vue\\axios.min.js"
+    },
+    {
+      "Id": "E:\\os\\cloud\\Quartz.NetUI\\Quartz.NET.Web\\wwwroot\\vue\\vue.js",
+      "PackagePath": "staticwebassets\\vue\\vue.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Quartz.NET.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Quartz.NET.Web.props",
+      "PackagePath": "build\\Quartz.NET.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Quartz.NET.Web.props",
+      "PackagePath": "buildMultiTargeting\\Quartz.NET.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Quartz.NET.Web.props",
+      "PackagePath": "buildTransitive\\Quartz.NET.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
